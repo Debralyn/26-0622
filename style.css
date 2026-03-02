@@ -1,4 +1,10 @@
  /*style.css*/
- h4, h5, h6 {
+ h3
     color: blue;
 	text-decoration: underline;
+	font-weight: bold;
+	font-decoration: line-through;
+  h5
+    color: red;
+	font-weight: bold;
+	text-decoration: uderline;
